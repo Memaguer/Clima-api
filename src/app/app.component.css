@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+}
+
+small{
+    font-size: .9rem;
+}
+
+.cities .list-group-item{
+    cursor: pointer;
+}
